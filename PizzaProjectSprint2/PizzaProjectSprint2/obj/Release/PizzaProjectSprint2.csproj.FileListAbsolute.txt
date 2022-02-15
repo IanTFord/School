@@ -1,0 +1,10 @@
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\bin\Release\PizzaProjectSprint2.exe.config
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\bin\Release\PizzaProjectSprint2.exe
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\bin\Release\PizzaProjectSprint2.pdb
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\obj\Release\PizzaProjectSprint2.Form_Order.resources
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\obj\Release\PizzaProjectSprint2.Form_SignIn.resources
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\obj\Release\PizzaProjectSprint2.Properties.Resources.resources
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\obj\Release\PizzaProjectSprint2.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\obj\Release\PizzaProjectSprint2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\obj\Release\PizzaProjectSprint2.exe
+C:\Users\Ian\Desktop\RecycleBin\College\SWE\PizzaProjectSprint2\PizzaProjectSprint2\obj\Release\PizzaProjectSprint2.pdb

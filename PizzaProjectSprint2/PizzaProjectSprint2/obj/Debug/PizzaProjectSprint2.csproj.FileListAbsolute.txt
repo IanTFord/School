@@ -1,0 +1,11 @@
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\bin\Debug\PizzaProjectSprint2.exe.config
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\bin\Debug\PizzaProjectSprint2.exe
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\bin\Debug\PizzaProjectSprint2.pdb
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.csprojAssemblyReference.cache
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.Properties.Resources.resources
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.csproj.GenerateResource.cache
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.exe
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.pdb
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.Form_SignIn.resources
+C:\Users\Ian\source\repos\PizzaProjectSprint2\PizzaProjectSprint2\obj\Debug\PizzaProjectSprint2.Form_Order.resources
