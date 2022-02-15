@@ -1,2 +1,2 @@
-# School
-College Work
+# College
+Course Work for various CS classes
